@@ -6,4 +6,4 @@ For setup instructions please see the [fabric wiki page](https://fabricmc.net/wi
 
 ## License
 
-This mod's source code is available under the MIT License.
+This mod's source code is available under the MIT License[MIT license](LICENSE.md).
